@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "forfyp-13eab"
+  },
+  "targets": {
+    "forfyp-13eab": {
+      "hosting": {
+        "app": [
+          "forfyp-13eab"
+        ]
+      }
+    }
+  }
+}
